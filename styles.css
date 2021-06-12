@@ -1,0 +1,127 @@
+body{
+  background-color:#31326f;
+}
+img{
+  height:200px
+}
+hr{
+
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color:grey;
+  width:10%
+}
+h1
+{
+  color:#f21170;
+  text-decoration: underline;
+  font-family: fantasy;
+
+
+}
+h2
+{
+  color:#344fa1;
+  text-decoration: underline;
+  font-family: fantasy;
+}
+h3
+{
+    color:#344fa1;
+    text-decoration: underline;
+    font-family: fantasy;
+}
+table
+{
+    color:#206a5d;
+    font-family: fantasy;
+}
+form
+{
+  color: #206a5d;
+  font-family: fantasy;
+}
+ol
+{
+  color:#206a5d;
+  font-family: fantasy;
+}
+p
+{
+  color:blue;
+  font-style: oblique;
+  font-family: fantasy;
+}
+/*img
+{
+  height: 250px;
+  background-color: #ff8882;
+}
+*/
+a
+{
+  font-style: italic;
+}
+.bacon
+{
+  background-color: green;
+  border-radius: 100%;
+}
+.broccoli
+{
+  background-color: red;
+  border-radius: 100%;
+}
+#heading
+{
+  color: black;
+}
+.bacon:hover
+{
+  background-color: blue;
+  height: 350px;
+}
+.broccoli:hover
+{
+  background-color:yellow;
+  height: 450px;
+
+}
+#heading:hover
+{
+  color: green;
+}
+p:hover
+{
+  color:green;
+  font-size: 20px;
+}
+h2:hover
+{
+  color:yellow;
+  font-size: 20px;
+}
+h3:hover
+{
+  color:yellow;
+  font-size: 20px;
+}
+table:hover
+{
+  color:red;
+  font-size: 30px;
+}
+form:hover
+{
+  color:pink;
+  font-size: 30px;
+}
+img:hover
+{
+  height: 250px;
+  background-color: red;
+}
+hr:hover
+{
+  width:30%;
+}
